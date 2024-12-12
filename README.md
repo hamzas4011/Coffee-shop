@@ -12,7 +12,8 @@ Home
 Features an introduction and background about the coffee shop.
 Includes visually appealing images and a brief history.
 
-![Coffee-shop-home](https://github.com/user-attachments/assets/04185a9b-5833-489a-b7d7-08c98df316a1)
+![Coffee-shop-home](https://github.com/user-attachments/assets/46c0c1f1-27f1-42e4-b8f9-7b4eeb57c1a3)
+
 
 Menu
 Displays menu items in a grid layout with descriptions and prices.
