@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/coffee-shop/static/css/main.e2b0cdf7.css",
+    "main.js": "/coffee-shop/static/js/main.ce5c444c.js",
+    "static/media/coffee-shop3.jpg": "/coffee-shop/static/media/coffee-shop3.71ffe1d650953968443c.jpg",
+    "static/media/coffee-shop.jpg": "/coffee-shop/static/media/coffee-shop.05515e3ed65e6b164ea6.jpg",
+    "static/media/ice-coffe.jpg": "/coffee-shop/static/media/ice-coffe.7e0b35138a9c61c23f64.jpg",
+    "static/media/coffee-shop2.jpg": "/coffee-shop/static/media/coffee-shop2.3fadce547303e9392502.jpg",
+    "static/media/tea.jpg": "/coffee-shop/static/media/tea.078dc82ce3553831d81e.jpg",
+    "static/media/coffee-shop1.jpg": "/coffee-shop/static/media/coffee-shop1.028b62343ce58c55c217.jpg",
+    "static/media/crossaint.jpg": "/coffee-shop/static/media/crossaint.46cfcf17d0a3dbbff01a.jpg",
+    "static/media/muffins.jpg": "/coffee-shop/static/media/muffins.0155363631646b0ad381.jpg",
+    "static/media/espresso.jpg": "/coffee-shop/static/media/espresso.717977f5950b3e9d9ed1.jpg",
+    "static/media/coffee.jpg": "/coffee-shop/static/media/coffee.899e36e58225e02941dd.jpg",
+    "static/media/sandwich.jpg": "/coffee-shop/static/media/sandwich.d82a382fdea86b1d70bf.jpg",
+    "static/media/chocolade-milk.jpg": "/coffee-shop/static/media/chocolade-milk.82a40cccf0a829a5f37b.jpg",
+    "static/media/caffe-latte.jpg": "/coffee-shop/static/media/caffe-latte.8c8d02a403271ec14159.jpg",
+    "index.html": "/coffee-shop/index.html",
+    "main.e2b0cdf7.css.map": "/coffee-shop/static/css/main.e2b0cdf7.css.map",
+    "main.ce5c444c.js.map": "/coffee-shop/static/js/main.ce5c444c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2b0cdf7.css",
+    "static/js/main.ce5c444c.js"
+  ]
+}
