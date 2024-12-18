@@ -10,10 +10,10 @@ function Home() {
     <div className="home-container">
       <h1>Welcome to Coffee Shop</h1>
       <div className="image-grid">
-        <img src={image1} alt="Coffee Shop 1" />
-        <img src={image2} alt="Coffee Shop 2" />
-        <img src={image3} alt="Coffee Shop 3" />
-        <img src={image4} alt="Coffee Shop 4" />
+        <img src={image1} alt="Coffee Shop 1" loading="lazy"/>
+        <img src={image2} alt="Coffee Shop 2" loading="lazy"/>
+        <img src={image3} alt="Coffee Shop 3" loading="lazy"/>
+        <img src={image4} alt="Coffee Shop 4" loading="lazy"/>
       </div>
       <div className="about-section">
         <h2>About Coffee Shop</h2>
