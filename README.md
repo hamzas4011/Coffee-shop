@@ -27,8 +27,3 @@ Live Demo 🌐
 
 Check out the live version of the website here: [Coffee Shop Web Application](https://hamzas4011.github.io/coffee-shop/)
 
-Technologies Used 🛠️
-
-React.js
-CSS (Flexbox & Grid)
-React Router
