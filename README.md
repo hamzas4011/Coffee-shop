@@ -25,5 +25,5 @@ Easy to navigate and visually consistent.
 
 Live Demo 🌐
 
-Check out the live version of the website here: https://coffee-shop-ivory-seven.vercel.app/
+Check out the live version of the website here: https://coffee-shop-ivory-seven.vercel.app/ (right-click to open in new tab)
 
