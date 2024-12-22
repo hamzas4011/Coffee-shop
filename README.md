@@ -1,6 +1,6 @@
 # ☕ Coffee Shop Web Application
 
-A modern and responsive web application for a coffee shop, built using **React.js**. It showcases the menu, highlights the story of the coffee shop, and provides an engaging experience for visitors.
+A modern and responsive web application for a coffee shop, built using **React.js**. It showcases the menu, highlights the story of the coffee shop, and provides an engaging experience for visitors. This project was created as a hobby to showcase my front-end development skills.
 
 ---
 
